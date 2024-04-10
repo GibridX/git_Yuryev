@@ -5,12 +5,6 @@
 его основные функции.<br>
 <html>
 <head>
-<style>
-h1 {
-text-align: center;
-line-height: 2;
-}
-</style>
 </head>
 <body>
 <h1>Область применения</h1>
